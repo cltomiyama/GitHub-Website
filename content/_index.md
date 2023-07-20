@@ -16,17 +16,18 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
           icon: chart-line
           icon_pack: fas
         - name: Python
-          description: 10%
           icon: python
           icon_pack: fab
+        - name: Excel
+          icon: file-excel
+          icon_package: fab
+    
   - block: experience
     content:
       title: Experience
