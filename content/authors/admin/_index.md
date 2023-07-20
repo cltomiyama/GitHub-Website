@@ -37,7 +37,7 @@ education:
     - course: B.Sc. Honours Biochemistry & Molecular Biology (Medical)
       institution: The University of British Columbia
       year: 2023
-    - course: Honours in Analytical Chemsitry
+    - course: Honours in Analytical Chemistry
       year: 2023
     - course: International Undergraduate Research Award
       year: 2022
@@ -50,9 +50,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  # icon_pack: fas
+  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/cltomiyama
@@ -73,5 +73,5 @@ email: 'cltomiyama@gmail.com'
 highlight_name: true
 ---
 
-Carolina Tomiyama is a recent graduate from the University of British Columbia. Her passion for combining biochemistry and data science inspired her to move from Brazil to pursue meaningful projects in Canada. Throughout university, her research focused on the improvement of infant nutrition and large data processing. Carolina is ready to unravel the mysteries of life through data-driven exploration.
+Carolina Tomiyama is a recent graduate from the University of British Columbia. Her passion for combining biochemistry and data science inspired her to move from Brazil to pursue meaningful projects in Canada. Throughout university, her research focused on the improvement of infant nutrition and large data processing. To her peers, Carolina is curious, persistent and the go-to person to solve tech issues.
 {style="text-align: justify;"}
