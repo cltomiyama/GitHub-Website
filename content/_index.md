@@ -23,10 +23,10 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: Python
           description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: python
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
