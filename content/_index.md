@@ -24,6 +24,7 @@ sections:
         - name: Python
           icon: python
           icon_pack: fab
+          weight: 80
         - name: Excel
           icon: file-excel
           icon_package: fab
