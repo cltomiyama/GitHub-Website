@@ -13,18 +13,30 @@ sections:
       username: admin
   - block: features
     content:
-      title: Skills
+      title: Laboratory skills
+      items:
+        - name: Analytical Chemistry Methods
+          icon: vial
+          icon_pack: fab
+          description: HPLC-MS, CE, SPE
+        - name: DNA Manipulation
+          icon: dna
+          icon_package: fab
+          description: Mutagenesis, Cloning Techniques, Sequence Analysis
+        - name: Molecular Biology
+          icon: vial-virus
+          icon_package: fab
+          description: PCR, RFLP, ELISA, STR, VNTR
+  - block: features
+    content:
+      title: Computational skills
       items:
         - name: R
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          icon: chart-line
-          icon_pack: fas
         - name: Python
           icon: python
           icon_pack: fab
-          weight: 80
         - name: Excel
           icon: file-excel
           icon_package: fab
