@@ -16,8 +16,8 @@ sections:
       title: Laboratory skills
       items:
         - name: Analytical Chemistry Methods
-          icon: dna
-          icon_pack: fab
+          icon: flask-vial
+          icon_package: fab
           description: HPLC-MS, CE, SPE, Glycoscience
         - name: DNA Manipulation
           icon: dna
