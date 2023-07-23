@@ -35,6 +35,7 @@ sections:
           icon: r-project
           icon_pack: fab
           description: Biostatistics & Data Visualization
+        - name: Python
           icon: python
           icon_pack: fab
           description: Data Manipulation & Analysis
