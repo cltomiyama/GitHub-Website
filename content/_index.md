@@ -59,7 +59,7 @@ sections:
         - title: Laboratory Technician
           company: SGS
           company_url: ''
-          company_logo: org-sgs
+          company_logo: 
           location: Burnaby
           date_start: '2023-07-01'
           date_end: ''
@@ -67,7 +67,7 @@ sections:
         - title: Research Asisstant
           company: The University of British Columbia
           company_url: ''
-          company_logo: org-ubc
+          company_logo: 
           location: Kelowna
           date_start: '2022-05-01'
           date_end: '2023-04-01'
@@ -75,7 +75,7 @@ sections:
         - title: Laboratory Assistant
           company: Zandberg Laboratory
           company_url: ''
-          company_logo: org-zendy
+          company_logo: 
           location: Kelowna
           date_start: '2021-01-01'
           date_end: '2022-04-01'
@@ -83,7 +83,7 @@ sections:
         - title: Organic Chemistry & Biostatistics Teacher Assistant
           company: The University of British Columbia
           company_url: ''
-          company_logo: org-ubc
+          company_logo: 
           location: Kelowna
           date_start: '2021-09-01'
           date_end: '2023-04-01'
