@@ -56,27 +56,39 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Laboratory Technician
+          company: SGS
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-sgs
+          location: Burnaby
+          date_start: '2023-07-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: Part of the Digestion Laboratory in the Geochemistry Department.
+        - title: Research Asisstant
+          company: The University of British Columbia
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-ubc
+          location: Kelowna
+          date_start: '2022-05-01'
+          date_end: '2023-04-01'
+          description: Led the dairy department team and conducted research projects aiming at the characterization of milk oligosaccharides.
+        - title: Laboratory Assistant
+          company: Zandberg Laboratory
+          company_url: ''
+          company_logo: org-zendy
+          location: Kelowna
+          date_start: '2021-01-01'
+          date_end: '2022-04-01'
+          description: Collaborated with numerous researchers to elucidate milk's glycobiology to improve infant nutrition.
+        - title: Organic Chemistry & Biostatistics Teacher Assistant
+          company: The University of British Columbia
+          company_url: ''
+          company_logo: org-ubc
+          location: Kelowna
+          date_start: '2021-09-01'
+          date_end: '2023-04-01'
+          description: Worked with the Department of Biology and Chemistry to support UBCO students’ learning and achievements.
+    
     design:
       columns: '2'
   - block: accomplishments
