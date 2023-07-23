@@ -75,7 +75,7 @@ sections:
         - title: Laboratory Assistant
           company: Zandberg Laboratory
           company_url: ''
-          company_logo: org-zandy
+          company_logo: org-zendy
           location: Kelowna
           date_start: '2021-01-01'
           date_end: '2022-04-01'
