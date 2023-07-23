@@ -59,7 +59,7 @@ sections:
         - title: Laboratory Technician
           company: SGS
           company_url: ''
-          company_logo: 
+          company_logo: org-sgs.png
           location: Burnaby
           date_start: '2023-07-01'
           date_end: ''
