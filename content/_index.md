@@ -34,12 +34,14 @@ sections:
         - name: R
           icon: r-project
           icon_pack: fab
-        - name: Python
+          description: Biostatistics & Data Visualization
           icon: python
           icon_pack: fab
+          description: Data Manipulation & Analysis
         - name: Excel
           icon: file-excel
           icon_package: fab
+          description: Multiple Applications
     
   - block: experience
     content:
