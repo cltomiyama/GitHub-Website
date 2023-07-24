@@ -135,8 +135,10 @@ sections:
           organization_url: https://www.ulpgc.es/
           title: International Scientific Meeting in Colostrum (Spain 2022)
           url: ''
-    design:
+
+   design:
       columns: '2'
+      
   - block: collection
     id: posts
     content:
