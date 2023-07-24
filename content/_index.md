@@ -104,29 +104,28 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: uploads/resume.pdf
+        - certificate_url: uploads/honours.pdf
           date_end: ''
           date_start: '2023-04-01'
-          description: ''
+          description: Identification and characterization of CD57-like oligosaccharides in human milk.
           organization: UBC
           organization_url: https://www.ubc.ca/
           title: Honours Thesis
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: uploads/banff.pdf
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2022-05-01'
+          description: Investigating seasonal influences on the concentrations of bio-active milk glycans and sialic acid in dairy cows.
+          organization: 'GlycoNet'
+          organization_url: https://canadianglycomics.ca/
+          title: GlycoNet Conference (Banff 2022)
+          url: ''
+        - date_end: ''
+          date_start: '2022-11-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: ULPGC
+          organization_url: h
+          title: International Scientific Meeting in Colostrum (Spain 2022)
           url: ''
     design:
       columns: '2'
