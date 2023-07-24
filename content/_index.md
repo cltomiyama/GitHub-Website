@@ -115,16 +115,16 @@ sections:
         - certificate_url: uploads/banff.pdf
           date_end: ''
           date_start: '2022-05-01'
-          description: Investigating seasonal influences on the concentrations of bio-active milk glycans and sialic acid in dairy cows.
-          organization: 'GlycoNet'
+          description: Investigating seasonal influences on the concentrations of bioactive milk glycans and sialic acid in dairy cows.
+          organization: GlycoNet
           organization_url: https://canadianglycomics.ca/
           title: GlycoNet Conference (Banff 2022)
           url: ''
         - date_end: ''
           date_start: '2022-11-01'
-          description: ''
+          description: The transition diet starch content alters sialic acid concentrations and profiles in colostrum and transition milk of Holstein dairy cattle
           organization: ULPGC
-          organization_url: h
+          organization_url: https://www.ulpgc.es/
           title: International Scientific Meeting in Colostrum (Spain 2022)
           url: ''
     design:
