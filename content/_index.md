@@ -104,7 +104,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - poster_url: uploads/resume.pdf
+        - certificate_url: uploads/resume.pdf
           date_end: ''
           date_start: '2023-04-01'
           description: ''
