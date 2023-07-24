@@ -109,7 +109,7 @@ sections:
           date_start: '2023-04-01'
           description: ''
           organization: UBC
-          organization_url: 
+          organization_url: https://www.ubc.ca/
           title: Honours Thesis
           url: ''
         - certificate_url: https://www.edx.org
