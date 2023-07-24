@@ -119,7 +119,6 @@ sections:
           organization: GlycoNet
           organization_url: https://canadianglycomics.ca/
           title: GlycoNet Conference (Banff 2022)
-          url: ''
         - date_end: ''
           date_start: '2022-09-01'
           description: Characterization of novel milk oligosaccharides: a qualitative analysis across species.
