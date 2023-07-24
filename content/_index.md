@@ -112,7 +112,7 @@ sections:
           title: Honours Thesis
         - certificate_url: uploads/IURA.pdf
           date_end: ''
-          date_start: '2022-11-01'
+          date_start: '2022-09-01'
           description: 'Characterization of novel milk oligosaccharides: A Qualitative Analysis across species.'
           organization: UBC
           organization_url: https://www.ubc.ca/
