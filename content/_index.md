@@ -11,6 +11,7 @@ sections:
       title: About Me
       username: admin
   - block: features
+    id: skills
     content:
       title: Laboratory Skills
       items:
