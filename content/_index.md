@@ -12,7 +12,7 @@ sections:
       username: admin
   - block: features
     content:
-      title: Laboratory skills
+      title: Laboratory Skills
       items:
         - name: Analytical Chemistry Methods
           icon: flask-vial
@@ -28,7 +28,7 @@ sections:
           description: PCR, RFLP, ELISA, STR, VNTR
   - block: features
     content:
-      title: Computational skills
+      title: Computational Skills
       items:
         - name: R
           icon: r-project
