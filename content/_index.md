@@ -118,6 +118,19 @@ sections:
           organization: GlycoNet
           organization_url: https://canadianglycomics.ca/
           title: GlycoNet Conference (Banff 2022)
+        - date_end: ''
+          date_start: '2022-11-01'
+          description: The transition diet starch content alters sialic acid concentrations and profiles in colostrum and transition milk of Holstein dairy cattle.
+          organization: ULPGC
+          organization_url: https://www.ulpgc.es/
+          title: International Scientific Meeting on Colostrum (Spain 2022)
+       - certificate_url: uploads/IURA.pdf
+          date_end: ''
+          date_start: '2022-09-01'
+          description: Characterization of Novel Milk Oligosaccharides: A Qualitative Analysis across Species.
+          organization: UBC
+          organization_url: https://www.ubc.ca/
+          title: International Undergraduate Research Award
        
     design:
       columns: '2'
