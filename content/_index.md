@@ -88,11 +88,11 @@ sections:
           date_end: '2023-04-01'
           description: Worked with the Department of Biology and Chemistry to support UBCO students’ learning and achievements.
     
-    design:
-      columns: '2'
+      design:
+        columns: '2'
+    
   - block: accomplishments
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
@@ -110,7 +110,13 @@ sections:
           organization: UBC
           organization_url: https://www.ubc.ca/
           title: Honours Thesis
-          url: ''
+        - certificate_url: uploads/IURA.pdf
+          date_end: ''
+          date_start: '2022-11-01'
+          description: 'Characterization of novel milk oligosaccharides: A Qualitative Analysis across species.'
+          organization: UBC
+          organization_url: https://www.ubc.ca/
+          title: International Undergraduate Research Award
         - certificate_url: uploads/banff.pdf
           date_end: ''
           date_start: '2022-05-01'
@@ -124,14 +130,7 @@ sections:
           organization: ULPGC
           organization_url: https://www.ulpgc.es/
           title: International Scientific Meeting on Colostrum (Spain 2022)
-       - certificate_url: uploads/IURA.pdf
-          date_end: ''
-          date_start: '2022-09-01'
-          description: Characterization of Novel Milk Oligosaccharides: A Qualitative Analysis across Species.
-          organization: UBC
-          organization_url: https://www.ubc.ca/
-          title: International Undergraduate Research Award
-       
+
     design:
       columns: '2'
       
