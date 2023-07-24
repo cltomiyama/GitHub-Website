@@ -9,7 +9,6 @@ sections:
     id: about
     content:
       title: About Me
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
     content:
@@ -120,7 +119,7 @@ sections:
           organization_url: https://canadianglycomics.ca/
           title: GlycoNet Conference (Banff 2022)
        
-   design:
+    design:
       columns: '2'
       
   - block: collection
