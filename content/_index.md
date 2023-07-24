@@ -119,13 +119,6 @@ sections:
           organization: GlycoNet
           organization_url: https://canadianglycomics.ca/
           title: GlycoNet Conference (Banff 2022)
-        - date_end: ''
-          date_start: '2022-11-01'
-          description: The transition diet starch content alters sialic acid concentrations and profiles in colostrum and transition milk of Holstein dairy cattle.
-          organization: ULPGC
-          organization_url: https://www.ulpgc.es/
-          title: International Scientific Meeting in Colostrum (Spain 2022)
-          url: ''
        
    design:
       columns: '2'
