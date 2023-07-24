@@ -126,15 +126,7 @@ sections:
           organization_url: https://www.ulpgc.es/
           title: International Scientific Meeting in Colostrum (Spain 2022)
           url: ''
-        - |2-
-          date_end: ''
-          date_start: '2022-09-01'
-          description: Characterization of novel milk oligosaccharides: a qualitative analysis across species.
-          organization: UBC
-          organization_url: https://www.ubc.ca/
-          title: International Undergraduate Research Award
-          url: ''
-
+       
    design:
       columns: '2'
       
