@@ -197,7 +197,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery assets="album/demo" >}}
+        {{< gallery albums="demo" >}}
     design:
       columns: '1'
   
