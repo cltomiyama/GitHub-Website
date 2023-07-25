@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Experiences
-    url: '#skills'
+  - name: Experience
+    url: '#experience'
     weight: 20
-  - name: Accomplishments
-    url: '#projects'
+  - name: Blog
+    url: '#blog'
     weight: 30
   - name: Projects
-    url: '#talks'
+    url: '#projects'
     weight: 40
   - name: Gallery
-    url: '#projects'
+    url: '#gallery'
     weight: 50
   - name: Contact
     url: '#contact'
