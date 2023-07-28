@@ -67,7 +67,7 @@ sections:
           date_start: '2023-07-01'
           date_end: ''
           description: Part of the Digestion Laboratory in the Geochemistry Department.
-        - title: Research Asisstant
+        - title: Research Assistant
           company: The University of British Columbia
           company_url: ''
           company_logo: org-ubc
