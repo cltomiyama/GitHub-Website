@@ -10,6 +10,7 @@ sections:
     content:
       title: About Me
       username: admin
+    
   - block: features
     id: skills
     content:
@@ -27,6 +28,7 @@ sections:
           icon: vial-virus
           icon_package: fab
           description: PCR, RFLP, ELISA, STR, VNTR
+    
   - block: features
     content:
       title: Computational Skills
@@ -106,7 +108,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: uploads/honours.pdf
+        - poster_url: uploads/honours.pdf
           date_end: ''
           date_start: '2023-04-01'
           description: Identification and characterization of CD57-like oligosaccharides in human milk.
