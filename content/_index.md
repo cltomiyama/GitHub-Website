@@ -108,7 +108,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - poster_url: uploads/honours.pdf
+        - certificate_url: uploads/honours.pdf
           date_end: ''
           date_start: '2023-04-01'
           description: Identification and characterization of CD57-like oligosaccharides in human milk.
