@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: 'Data Analysis: Mental Health in Tech Companies'
+summary: Is there a correlation between the number of employees in a tech company and how open employees are to discussing mental health?
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - Git
+date: "2020-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/cltomiyama/MentalHealthSurvey_analysis.git
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: ''
   focal_point: Smart
 ---
