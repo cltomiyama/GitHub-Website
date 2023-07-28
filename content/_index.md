@@ -181,8 +181,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Git Hub
+          tag: Git
         - name: Other
           tag: Demo
     design:
