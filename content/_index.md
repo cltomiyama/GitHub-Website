@@ -167,7 +167,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  - block: collection
+  # - block: collection
     id: blog
     content:
       title: Blog
