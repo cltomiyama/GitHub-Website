@@ -1,12 +1,12 @@
 ---
-title: 'Data Analysis: Mental Health in Tech Companies'
-summary: Is there a correlation between the number of employees in a tech company and how open employees are to discussing mental health?
+title: 'Project Under Construction: Geo-Analysis of Infant Health'
+summary: Analysis of a dataset that covers health statistics of the countries recognized by WHO.
 tags:
   - Git
-date: "2020-07-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/cltomiyama/MentalHealthSurvey_analysis.git
+external_link: https://github.com/cltomiyama/WHO-InfantHealth 
 
 image:
   caption: ''
