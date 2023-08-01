@@ -108,33 +108,38 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: uploads/honours.pdf
-          date_end: ''
+        - date_end: ''
           date_start: '2023-04-01'
-          description: Identification and characterization of CD57-like oligosaccharides in human milk.
+          description: Requires a high academic standing and preparation of a graduating thesis
           organization: UBC
           organization_url: https://www.ubc.ca/
-          title: Honours Thesis
+          title: Honours 
         - certificate_url: uploads/IURA.pdf
           date_end: ''
-          date_start: '2022-09-01'
-          description: 'Characterization of novel milk oligosaccharides: A Qualitative Analysis across species.'
+          date_start: '2022-04-01'
+          description: '$10,500 granted to students to pursue innovative and original research.'
           organization: UBC
           organization_url: https://www.ubc.ca/
           title: International Undergraduate Research Award
         - certificate_url: uploads/banff.pdf
           date_end: ''
           date_start: '2022-05-01'
-          description: Investigating seasonal influences on the concentrations of bioactive milk glycans and sialic acid in dairy cows.
+          description: A national platform supports translational research, protection of intellectual property, novel drug development, company formation and training of a new generation of glyco-scientists and entrepreneurs.
           organization: GlycoNet
           organization_url: https://canadianglycomics.ca/
-          title: GlycoNet Conference (Banff 2022)
+          title: Canadian Glycomics Symposium (Banff 2022)
         - date_end: ''
           date_start: '2022-11-01'
-          description: The transition diet starch content alters sialic acid concentrations and profiles in colostrum and transition milk of Holstein dairy cattle.
+          description: Convenes worldwide scientists that investigates animal science
           organization: ULPGC
           organization_url: https://www.ulpgc.es/
           title: International Scientific Meeting on Colostrum (Spain 2022)
+        - date_end: ''
+          date_start: '2023-04-01'
+          description: Recognizes students who have demonstrated academic excellence by maintaining a sessional average of at least 85% while completing 24 or more credits.
+          organization: UBC
+          organization_url: https://www.ubc.ca/
+          title: Dean's List
 
     design:
       columns: '2'
