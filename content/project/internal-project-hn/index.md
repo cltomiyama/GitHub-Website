@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'https://github.com/cltomiyama/Professional_Website/blob/main/static/uploads/honours.pdf'
+url_pdf: honours.pdf
 url_slides: ''
 url_video: ''
 
