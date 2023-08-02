@@ -1,5 +1,5 @@
 ---
-title: 'Article: Maternal Influence in Infant Microbiota'
+title: 'Article: Maternal Influence on Infant Microbiota'
 summary: Can the maternal diet pre-program the baby's gut flora?
 tags:
   - Acad
