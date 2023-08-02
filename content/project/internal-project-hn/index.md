@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'honours.pdf'
+url_pdf: 'uploads/honours.pdf'
 url_slides: ''
 url_video: ''
 
