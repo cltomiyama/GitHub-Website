@@ -110,7 +110,7 @@ sections:
       items:
         - date_end: ''
           date_start: '2023-04-01'
-          description: Requires a high academic standing and preparation of a graduating thesis
+          description: Requires a high academic standing and preparation of a graduating thesis.
           organization: UBC
           organization_url: https://www.ubc.ca/
           title: Honours 
@@ -130,7 +130,7 @@ sections:
           title: Canadian Glycomics Symposium (Banff 2022)
         - date_end: ''
           date_start: '2022-11-01'
-          description: Convenes worldwide scientists that investigates animal science
+          description: Convenes worldwide scientists that investigate animal science.
           organization: ULPGC
           organization_url: https://www.ulpgc.es/
           title: International Scientific Meeting on Colostrum (Spain 2022)
@@ -161,10 +161,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Git Hub
-          tag: Git
-        - name: Other
-          tag: Demo
+        - name: Data Analytics
+          tag: Git 
+        - name: Academic
+          tag: Acad
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
