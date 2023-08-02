@@ -19,7 +19,7 @@ As far as we know, microbial development is divided into three stages: in utero,
 
 But why are scientists interested in manipulating the gut microbiota at an early stage? The answer is simply because the microbiota is related to one’s survival success. As commonly known, the normal flora is part of the first line of defence referred to as the innate immune system. When balanced, it can effectively inhibit pathogens by creating a protective barrier or/and by producing substances that can neutralize toxins. One example is the connection between gut microbiome alterations and the likelihood of developing skin diseases, such as rosacea and psoriatic arthritis. A current report associated high levels of _Bacteroides, Clostridium, Enterobacteriaceae,_ and _Staphylococcus_ in the early microbiota with increased risk for atopic diseases [(Polkowska-Pruszyńska et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/31520544/). Overall, an infant’s microbial ecosystems can be modulated as a means of preventing future implications.
 
-
+&nbsp;  
 ## Breast milk is the main connection point
 
 The relationship between a mother's diet and its influence on a baby's gut health through breast milk is a fascinating area of research in the field of maternal and child nutrition. Breast milk is a unique and dynamic fluid that contains a complex blend of nutrients, bioactive compounds, and immune factors, all of which play a crucial role in shaping the infant's gut microbiome and overall development.
@@ -31,6 +31,8 @@ One of the most critical factors affected by a mother's diet is the presence of 
 Furthermore, a maternal diet rich in probiotics (beneficial bacteria) and prebiotics can also positively impact the infant's gut health. Probiotic-rich foods, like yogurt or fermented products, can lead to an increase in beneficial bacteria, subsequently influencing the bacterial composition of her breast milk. When these probiotics are transferred to the infant through breastfeeding, they help in establishing a balanced and robust gut microbiome in the baby, promoting better digestion, immune function, and protection [(Sindi et al., 2021)](https://academic.oup.com/femsre/article/45/5/fuab011/6133472?login=true).
 
 On the other hand, certain dietary choices, such as consuming high amounts of saturated fats, sugary foods, or heavily processed meals, may have negative implications for the baby's gut health. Such diets have been associated with imbalances in the infant microbiome, potentially leading to inflammation and an increased risk of developing health issues in the future.
+
+&nbsp;  
 
 ## What can we conclude so far?
 
