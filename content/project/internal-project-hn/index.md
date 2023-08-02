@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: 'content/project/internal-project-hn/honours.pdf'
+url_pdf:''
 url_slides: ''
 url_video: ''
 
@@ -37,6 +37,6 @@ babies to elucidate HMO functional significance. Moreover, the HMO composition w
 
 The results are a huge step towards understanding HMO diversity and health-promoting effects. However, further investigations are indispensable. Future studies will focus on clarifying partially unresolved HMO structures using Tandem MS (MS/MS).
 
-### [Poster](honours.pdf)
+### [Defence Poster](honours.pdf)
 
 
