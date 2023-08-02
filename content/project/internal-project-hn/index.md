@@ -13,10 +13,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,8 +25,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-# Identification and Characterization of CD57-like Oligosaccharides in Human Milk.
 
 Human Milk Oligosaccharides (HMO) are short carbohydrates that constitute breast milk’s third most abundant solid component. They confer biological activities that promote infant health and development. HMO serves three major purposes: (i) promote the growth of gastrointestinal microbiota, (ii) inhibit pathogen adhesion, and (iii) modulate the immune system. 
 
