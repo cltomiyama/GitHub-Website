@@ -1,15 +1,15 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: 'Abstract: Identification and Characterization of CD57-like Oligosaccharides in Human Milk'
+summary: Sneak peek of my Honours Thesis.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Acad
+date: '2023-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
 
 links:
@@ -30,12 +30,15 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# Identification and Characterization of CD57-like Oligosaccharides in Human Milk.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Human Milk Oligosaccharides (HMO) are short carbohydrates that constitute breast milk’s third most abundant solid component. They confer biological activities that promote infant health and development. HMO serves three major purposes: (i) promote the growth of gastrointestinal microbiota, (ii) inhibit pathogen adhesion, and (iii) modulate the immune system. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+In the past years, the Zandberg lab discovered a new class of sulphate-containing Bovine Milk Oligosaccharides (BMO) that attaches to a glucuronic acid (GlcA) moiety. The sulfate and GlcA combination resemble a glycoepitope called CD57, known for interfering with immune cell terminal differentiation and brain activity. Despite the gap in knowledge on their biological role, CD57-like oligosaccharides have not yet been investigated in human milk. Therefore, this study aims to characterize the novel milk oligosaccharides in human specimens. 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Sixteen milk samples were collected from four individuals at four different time points for the investigation. The HMO profile was resolved with High-Performance Liquid Chromatography-Mass Spectrometry (HPLC-MS) and Capillary Electrophoresis-Laser Induced Fluorescence (CE-LIF). The analysis revealed nineteen novel HMOs, including isobars. The milk samples were compared with fecal samples from corresponding
+babies to elucidate HMO functional significance. Moreover, the HMO composition was distinguished by secretor status and compared across various mammals. 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The results are a huge step towards understanding HMO diversity and health-promoting effects. However, further investigations are indispensable. Future studies will focus on clarifying partially unresolved HMO structures using Tandem MS (MS/MS).
+
+
