@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://github.com/cltomiyama/Professional_Website/blob/main/static/uploads/honours.pdf'
 url_slides: ''
 url_video: ''
 
@@ -23,7 +23,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 'https://github.com/cltomiyama/Professional_Website/blob/main/static/uploads/honours.pdf'
+slides: 
 ---
 
 Human Milk Oligosaccharides (HMO) are short carbohydrates that constitute breast milk’s third most abundant solid component. They confer biological activities that promote infant health and development. HMO serves three major purposes: (i) promote the growth of gastrointestinal microbiota, (ii) inhibit pathogen adhesion, and (iii) modulate the immune system. 
