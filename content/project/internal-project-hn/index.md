@@ -23,14 +23,12 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 'https://github.com/cltomiyama/Professional_Website/blob/main/static/uploads/honours.pdf'
 ---
 
 Human Milk Oligosaccharides (HMO) are short carbohydrates that constitute breast milk’s third most abundant solid component. They confer biological activities that promote infant health and development. HMO serves three major purposes: (i) promote the growth of gastrointestinal microbiota, (ii) inhibit pathogen adhesion, and (iii) modulate the immune system. 
 
 In the past years, the Zandberg lab discovered a new class of sulphate-containing Bovine Milk Oligosaccharides (BMO) that attaches to a glucuronic acid (GlcA) moiety. The sulfate and GlcA combination resemble a glycoepitope called CD57, known for interfering with immune cell terminal differentiation and brain activity. Despite the gap in knowledge on their biological role, CD57-like oligosaccharides have not yet been investigated in human milk. Therefore, this study aims to characterize the novel milk oligosaccharides in human specimens. 
-
-![Figure1](https://github.com/cltomiyama/Professional_Website/blob/main/static/HMOactivity.jpg)
 
 Figure 1. Bioactivities of Human Milk Oligosaccharides (HMO). Oligosaccharides are a diverse class of glycans that contains many biological functions. The most well-known is their prebiotic activity in the gastrointestinal tract, where commercial bacteria like Lactobacillus and Bifidobacteria break down the sugar. It is also proposed that HMO can act as a decoy and inhibit pathogen adhesion. More recent studies have revealed the systemic circulation of HMOs, suggesting it has the potential to directly modulate immune cells.  This figure was created with BioRender.com.
 
