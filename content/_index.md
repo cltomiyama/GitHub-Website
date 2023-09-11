@@ -66,7 +66,7 @@ sections:
           location: Vancouver
           date_start: '2023-08-28'
           date_end: ''
-          description: Work alongside Dr. Oxana Korj (Oral and Maxillofacial Surgeon)
+          description: Work alongside Dr. Oxana Korj (Oral and Maxillofacial Surgeon).
         - title: Research Assistant
           company: The University of British Columbia
           company_url: ''
