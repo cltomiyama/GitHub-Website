@@ -62,11 +62,11 @@ sections:
         - title: Administrative Assistant
           company: Greenway Surgical
           company_url: ''
-          company_logo: org-sgs
+          company_logo: org-gs
           location: Vancouver
           date_start: '2023-08-28'
           date_end: ''
-          description: Work along Dr. Oxana Korj
+          description: Work alongside Dr. Oxana Korj (Oral and Maxillofacial Surgeon)
         - title: Research Assistant
           company: The University of British Columbia
           company_url: ''
