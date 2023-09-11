@@ -59,14 +59,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Laboratory Technician
-          company: SGS
+        - title: Administrative Assistant
+          company: Greenway Surgical
           company_url: ''
           company_logo: org-sgs
-          location: Burnaby
-          date_start: '2023-07-01'
+          location: Vancouver
+          date_start: '2023-08-28'
           date_end: ''
-          description: Part of the Digestion Laboratory in the Geochemistry Department.
+          description: Work along Dr. Oxana Korj
         - title: Research Assistant
           company: The University of British Columbia
           company_url: ''
