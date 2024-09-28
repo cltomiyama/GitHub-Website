@@ -30,7 +30,6 @@ interests:
   - Data Analysis & Statistics
   - Infant Nutrition
   - Research & Development
-  - Health Care Management
 
 # Education to show in About widget
 education:
